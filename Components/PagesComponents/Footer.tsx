@@ -1,11 +1,11 @@
-import React from 'react';
+  import React from 'react';
 
 function Footer() {
   return (
     <>
       <div className="mx-auto max-w-2xl md:px-4 px-8 mt-8">
         <h2 className="text-xl text-slate-100">Reach out to me.</h2>
-        <p className="text-base tracking-tight">Feel free to reach out to me via email, LinkedIn, or Twitter for any queries, collaboration opportunities, or further details.</p>
+        <p className="text-base tracking-tight text-slate-200">Feel free to reach out to me via email, LinkedIn, or Twitter for any queries, collaboration opportunities, or further details.</p>
         <div className="mt-4 mb-4">
           <div className="mt-4 flex flex-wrap gap-4">
             <a className="bg-slate-100 text-slate-800 p-2 border rounded shadow text-sm font-semibold flex items-center" target="_blank" rel="noopener noreferrer" href="https://x.com/Govind_tiwari_">

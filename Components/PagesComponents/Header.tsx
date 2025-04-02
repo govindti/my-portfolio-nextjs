@@ -7,9 +7,9 @@ import InsertDriveFileIcon from '@mui/icons-material/InsertDriveFile';
 
 function Header() {
     return (
-        <div className="flex flex-col md:flex-row justify-between items-center mt-10 ">
+        <div className="flex flex-col md:flex-row justify-between items-center mt-10 mx-auto max-w-2xl md:px-4 px-8">
             <div className="text-center">
-                <h1 className="text-xl font-semibold text-slate-200 ">Hi, I'm Govind 👋</h1>
+                <h1 className="text-xl font-semibold text-slate-100 ">Hi, I'm Govind 👋</h1>
             </div>
             <div className="text-base flex flex-col md:flex-row gap-3 items-center md:items-start">
                 <div className="flex flex-center md:flex-row gap-3 items-center">
