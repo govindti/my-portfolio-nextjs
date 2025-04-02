@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Fira_Code } from "next/font/google";
 import { Roboto } from "next/font/google";
 import "./globals.css";
-import { Tooltip } from "@mui/material";
 
 // Font imports
 const firaCode = Fira_Code({
@@ -29,13 +28,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <Tooltip>
       <body
         className={`${firaCode.variable} ${roboto.variable} antialiased max-w-screen-md mx-auto px-4`} 
       >
         {children}
       </body>
-      </Tooltip>
     </html>
   );
 }
