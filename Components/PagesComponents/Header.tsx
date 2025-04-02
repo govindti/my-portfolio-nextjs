@@ -13,13 +13,13 @@ function Header() {
             </div>
             <div className="text-base flex flex-col md:flex-row gap-3 items-center md:items-start">
                 <div className="flex flex-center md:flex-row gap-3 items-center">
-                    <a href="https://twitter.com/tiwari_govind" target="_blank" rel="noopener noreferrer" className="text-slate-200 hover:text-slate-400 transition duration-300 ease-in-out">
+                    <a href="https://x.com/Govind_tiwari_" target="_blank" rel="noopener noreferrer" className="text-slate-200 hover:text-slate-400 transition duration-300 ease-in-out">
                         <TwitterIcon />
                     </a>
-                    <a href="https://www.linkedin.com/in/govindtiwari/" target="_blank" rel="noopener noreferrer" className="text-slate-200 hover:text-slate-400 transition duration-300 ease-in-out">
+                    <a href="https://www.linkedin.com/in/govindtiwri" target="_blank" rel="noopener noreferrer" className="text-slate-200 hover:text-slate-400 transition duration-300 ease-in-out">
                         <LinkedInIcon />
                     </a>
-                    <a href='https://www.github.com/tiwari-govind' target="_blank" rel="noopener noreferrer" className="text-slate-200 hover:text-slate-400 transition duration-300 ease-in-out">
+                    <a href='https://github.com/govindti' target="_blank" rel="noopener noreferrer" className="text-slate-200 hover:text-slate-400 transition duration-300 ease-in-out">
                         <GitHubIcon />
                     </a>
                     <a href='https://drive.google.com/file/d/1vX0g2j4x8qk3J6b5z7Z5z5z5z5z5z5/view?usp=sharing' target="_blank" rel="noopener noreferrer" className="text-slate-200 hover:text-slate-400 transition duration-300 ease-in-out">
