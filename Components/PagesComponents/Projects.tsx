@@ -37,7 +37,7 @@ import ProjectsData from '../Data/ProjectsData'
 function Projects() {
     return (
         <>
-            <div className='mt-9 flex flex-col'>
+            <div className='mt-9 flex flex-col '>
                 <h2 className='text-xl font-medium text-slate-200 '>Projects</h2>
             </div>
             {ProjectsData.map((project) => (
