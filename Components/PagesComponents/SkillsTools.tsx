@@ -20,6 +20,7 @@ function SkillsTools() {
                 <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>CI/CD</div>
                 <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>Zod</div>
                 <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>Postman</div>
+                <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>FireBase</div>
                 <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>Git</div>
                 <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>Python</div>
                 <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>Ubuntu</div>
