@@ -10,7 +10,7 @@ function About() {
                 <li>Hi, I am Govind Tiwari, a Full-stack Developer passionate about creating and delivering projects that make a real-world impact.</li>
                 <li>I specialize in full-stack development with Next.js and Express.js, using TypeScript for type safety. I have experience with modern web technologies and tools.
                 </li>
-                <li>Have an idea, want to collaborate, or have an Job opportunity? Feel free to message me! I'm always excited to connect and work on great projects. <a href='mailto:108tiwari.g@gmai.com' className='text-slate-100 underline'>Contact me</a></li>
+                <li>Have an idea, want to collaborate, or have a job opportunity? Feel free to message me! I&#39;m always excited to connect and work on great projects. <a href='mailto:108tiwari.g@gmai.com' className='text-slate-100 underline'>Contact me</a></li>
             </ul>
         </>
     )

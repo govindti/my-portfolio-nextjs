@@ -25,7 +25,7 @@ export default function NotFound() {
   return (
     <div className="mx-auto max-w-2xl md:px-4 px-8 mt-8">
       <h1>404 - Page Not Found</h1>
-      <p>Sorry, the page you're looking for doesn't exist.</p>
+      <p>Sorry, the page you&#39;re looking for doesn&#39;t exist.</p>
       <p>
         Redirecting to <Link href="/">Home</Link> in {countdown} seconds...
       </p>
