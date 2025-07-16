@@ -24,8 +24,7 @@ function SkillsTools() {
                 <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>Git</div>
                 <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>Python</div>
                 <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>Ubuntu</div>
-                <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>AWS EC2</div>
-                <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>AWS S3</div>
+                <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>AWS EC2/S3</div>
                 <div className='bg-slate-100 text-slate-800 p-1 border rounded shadow text-xs font-semibold'>GoLang</div>
             </div>
         </>
